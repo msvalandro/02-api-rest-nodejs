@@ -22,6 +22,8 @@ npm run dev
 - Node.js
 - TypeScript
 - Fastify
+- Knex.js
+- SQLite
 
 ## Dependencies
 
